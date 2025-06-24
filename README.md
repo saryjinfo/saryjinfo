@@ -5,7 +5,8 @@
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS/Azure-orange)
-![Networking](https://img.shields.io/badge/Networking-Expert-green
+![Networking](https://img.shields.io/badge/Networking-Expert-green)
+
 
 🚀 Senior IT Specialist with 25+ years of hands-on experience in:
 
