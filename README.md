@@ -7,7 +7,6 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS/Azure-orange)
 ![Networking](https://img.shields.io/badge/Networking-Expert-green)
 
-
 🚀 Senior IT Specialist with 25+ years of hands-on experience in:
 
 - ✅ Linux & Windows System Administration
@@ -47,4 +46,18 @@
 ---
 
 > ⚡ "IT is not just my profession — it's my passion."
+
+---
+
+## 📊 GitHub Stats
+
+![Rudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saryjinfo&show_icons=true&theme=radical)
+
+## 🧰 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saryjinfo&layout=compact&theme=radical)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saryjinfo&theme=radical)
 
