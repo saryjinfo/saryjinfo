@@ -51,10 +51,6 @@ Infrastructure automation solutions combining Ansible, Docker, Kubernetes and sc
 ## 🎓 Certifications
 
 - Cisco CCNA Certified
-- AWS Certified Solutions Architect
-- Microsoft Azure Administrator
-- Kubernetes Certified
-- Nutanix Certified
 
 ---
 
