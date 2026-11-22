@@ -1,63 +1,70 @@
 # 👋 Hi, I'm Rudi
 
-![Linux](https://img.shields.io/badge/Linux-Systems-blue)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)
-![Cloud](https://img.shields.io/badge/Cloud-AWS/Azure-orange)
-![Networking](https://img.shields.io/badge/Networking-Expert-green)
+### Senior IT Specialist | Linux Infrastructure | Cloud & Automation
 
-🚀 Senior IT Specialist with 25+ years of hands-on experience in:
+Senior IT Specialist with **25+ years of hands-on experience** designing, managing and securing IT infrastructure.
 
-- ✅ Linux & Windows System Administration
-- ✅ Infrastructure Automation (Ansible, Docker, Kubernetes)
-- ✅ Virtualization (VMware, Nutanix, Hyper-V)
-- ✅ Cloud platforms (AWS, Azure, DigitalOcean, Contabo)
-- ✅ Networking & IT Security
-- ✅ Databases (PostgreSQL, MSSQL, MySQL, MariaDB)
-- ✅ Scripting (Python, Bash, PowerShell)
+I focus on building reliable infrastructure, intelligent automation and secure IT environments across on-premises and cloud platforms.
+
+My work combines traditional infrastructure engineering with modern automation, cybersecurity and AI-driven solutions.
 
 ---
 
-## 🔧 My Key Projects
+## 🛠️ Technical Expertise
 
-### [infrastructure-automation](https://github.com/saryjinfo/infrastructure-automation)
-
-> Full-stack infrastructure automation toolkit combining Ansible, Docker, Kubernetes and SSH for hybrid cloud and on-prem environments.
-
----
-
-## 📈 About Me
-
-- 💼 IT Manager at Aerotrans Service OÜ since 2014
-- 🎓 Cisco CCNA Certified
-- 🎯 AWS Certified Solutions Architect
-- 🎯 Microsoft Azure Administrator
-- 🎯 Kubernetes Certified
-- 🎯 Nutanix Certified
+| Area | Technologies |
+|---|---|
+| Operating Systems | Linux, Windows Server |
+| Automation | Ansible, Python, Bash, PowerShell |
+| Containers | Docker, Kubernetes |
+| Virtualization | VMware, Nutanix, Hyper-V |
+| Cloud | AWS, Azure, DigitalOcean, Contabo |
+| Networking | TCP/IP, DNS, Routing, Firewalls |
+| Databases | PostgreSQL, MSSQL, MySQL, MariaDB |
+| Security | Infrastructure Security, Vulnerability Management |
 
 ---
 
-## 📬 Contact
+## 🚀 Featured Projects
 
-- ✉️ Email: info@saryj.se
-- 🌍 Location: Stockholm, Sweden
+### DRS Linux AI Command Center
+Developing an intelligent Linux infrastructure and security platform focused on monitoring, automation, vulnerability intelligence and operational reporting.
+
+### DRS CVE Guardian
+Automated vulnerability intelligence and CVE monitoring, designed to support security awareness, analysis and structured reporting.
+
+### Infrastructure Automation
+Infrastructure automation solutions combining Ansible, Docker, Kubernetes and scripting across hybrid environments.
 
 ---
 
-> ⚡ "IT is not just my profession — it's my passion."
+## 💼 Professional Experience
+
+- IT Manager – Aerotrans Service OÜ (since 2014)
+- 25+ years of IT infrastructure experience
+- Linux and Windows system administration
+- Cloud and virtualization architecture
+- Infrastructure automation and IT security
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Certifications
 
-![Rudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saryjinfo&show_icons=true&theme=radical)
+- Cisco CCNA Certified
+- AWS Certified Solutions Architect
+- Microsoft Azure Administrator
+- Kubernetes Certified
+- Nutanix Certified
 
-## 🧰 Top Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saryjinfo&layout=compact&theme=radical)
+## 🌐 Connect
 
-## 🔥 Contribution Streak
+- Website: https://tensorgrid.dev
+- Location: Stockholm, Sweden
+- GitHub: You are already here!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saryjinfo&theme=radical)
+---
+
+> Building reliable infrastructure. Automating complexity. Engineering secure solutions.
 
